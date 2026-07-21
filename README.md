@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0077B5&height=180&section=header&text=Tamanna%20Biswas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20(MERN)%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:AD5389,100:3C1053&height=180&section=header&text=Tamanna%20Biswas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20(MERN)%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18" />
 
 <table>
 <tr>
@@ -47,12 +47,12 @@ I am always seeking new challenges and opportunities to improve my skills and le
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TamannaBiswas&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamannaBiswas&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
+<img src="https://github-readme-stats.vercel.app/api?username=TamannaBiswas&show_icons=true&count_private=true&theme=radical&hide_border=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamannaBiswas&layout=compact&theme=radical&hide_border=true" width="34%" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=TamannaBiswas&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=TamannaBiswas&theme=radical&hide_border=true" width="70%" />
 </p>
 
 <br/>
@@ -73,4 +73,4 @@ I am always seeking new challenges and opportunities to improve my skills and le
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0077B5&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:AD5389,100:3C1053&height=100&section=footer" />
