@@ -1,4 +1,11 @@
-![Web Developer](https://qph.cf2.quoracdn.net/main-qimg-220269482ce29d2ea69bfe9f4f05cd1b-lq)
+<table>
+<tr>
+<td width="35%">
+
+<img src="https://qph.cf2.quoracdn.net/main-qimg-220269482ce29d2ea69bfe9f4f05cd1b-lq" width="100%" />
+
+</td>
+<td width="65%">
 
 ### Hi there 👋, I'm Tamanna Biswas
 #### Full Stack Web Developer (MERN) & AI Enthusiast
@@ -10,6 +17,10 @@ I am always seeking new challenges and opportunities to improve my skills and le
 In my free time, I enjoy contributing to open-source projects on GitHub and participating in hackathons.
 
 You can view my projects and contributions on my GitHub profile: [github.com/TamannaBiswas](https://github.com/TamannaBiswas)
+
+</td>
+</tr>
+</table>
 
 **Skills:** REACT / JS / HTML / CSS / Node.js / Express / MongoDB
 
