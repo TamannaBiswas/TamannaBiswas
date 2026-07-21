@@ -1,41 +1,76 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0077B5&height=180&section=header&text=Tamanna%20Biswas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20(MERN)%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18" />
+
 <table>
 <tr>
-<td width="35%">
+<td width="40%">
 
-<img src="https://qph.cf2.quoracdn.net/main-qimg-220269482ce29d2ea69bfe9f4f05cd1b-lq" width="100%" />
+<img src="https://qph.cf2.quoracdn.net/main-qimg-220269482ce29d2ea69bfe9f4f05cd1b-lq" width="100%" style="border-radius:12px" />
 
 </td>
-<td width="65%">
+<td width="60%">
 
-### Hi there 👋, I'm Tamanna Biswas
-#### Full Stack Web Developer (MERN) & AI Enthusiast
+### 👋 About Me
 
-Hi, I'm a web developer with a passion for creating dynamic and user-friendly websites. I have experience with HTML, CSS, JavaScript, and front-end frameworks such as React. I also have a strong understanding of back-end technologies, including Node.js, Express, and MongoDB.
+Hi, I'm a web developer with a passion for creating dynamic and user-friendly websites. I have experience with **HTML, CSS, JavaScript**, and front-end frameworks such as **React**. I also have a strong understanding of back-end technologies, including **Node.js, Express, and MongoDB**.
 
-I am always seeking new challenges and opportunities to improve my skills and learn new technologies. I enjoy collaborating with others and am always open to feedback and suggestions.
+I am always seeking new challenges and opportunities to improve my skills and learn new technologies. I enjoy collaborating with others and am always open to feedback.
 
-In my free time, I enjoy contributing to open-source projects on GitHub and participating in hackathons.
+📍 Pabna, Bangladesh &nbsp;|&nbsp; 📫 tamannabiswas4636@gmail.com
 
-You can view my projects and contributions on my GitHub profile: [github.com/TamannaBiswas](https://github.com/TamannaBiswas)
+- 🔭 Currently working on full stack **MERN** projects
+- 🌱 Currently learning **JavaScript & AI integration**
+- 👯 Looking to collaborate on GitHub
+- 💬 Ask me about Web Development
 
 </td>
 </tr>
 </table>
 
-**Skills:** REACT / JS / HTML / CSS / Node.js / Express / MongoDB
+<br/>
 
-- 🔭 I'm currently working on full stack MERN projects
-- 🌱 I'm currently learning JavaScript & AI integration
-- 👯 I'm looking to collaborate on GitHub
-- 💬 Ask me about Web Development
-- 📫 Reach me at: tamannabiswas4636@gmail.com
+### 🛠️ Tech Stack
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TamannaBiswas) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/share/1DwsbkntgE/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tamanna-biswas-b716b72a7)
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
----
+<br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TamannaBiswas&show_icons=true&count_private=true)
+### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamannaBiswas)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TamannaBiswas&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamannaBiswas&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=TamannaBiswas)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=TamannaBiswas&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+<br/>
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tamanna-biswas-b716b72a7" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/share/1DwsbkntgE/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:tamannabiswas4636@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0077B5&height=100&section=footer" />
