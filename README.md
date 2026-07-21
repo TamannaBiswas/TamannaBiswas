@@ -4,7 +4,7 @@
 <tr>
 <td width="40%">
 
-<img src="https://qph.cf2.quoracdn.net/main-qimg-220269482ce29d2ea69bfe9f4f05cd1b-lq" width="100%" style="border-radius:12px" />
+<img src="https://github.com/user-attachments/assets/301b35fb-8582-48a0-a501-b52259ba2722" width="100%" style="border-radius:12px" />
 
 </td>
 <td width="60%">
